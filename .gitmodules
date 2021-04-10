@@ -1,0 +1,3 @@
+[submodule "mods/joke_currency"]
+	path = mods/joke_currency
+	url = https://github.com/MistUnky/joke_currency
